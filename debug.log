@@ -1,0 +1,21 @@
+[1017/151213.381:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1017/174508.895:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1017/174508.895:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1017/174508.895:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1017/174508.977:ERROR:exception_snapshot_win.cc(100)] thread ID 15564 not found in process
+[1017/174508.977:ERROR:exception_snapshot_win.cc(100)] thread ID 8120 not found in process
+[1017/174508.977:ERROR:exception_snapshot_win.cc(100)] thread ID 11056 not found in process
+[1017/174508.993:ERROR:process_memory_win.cc(73)] ReadMemory at 0x69a79fe880 of 16 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1017/174508.993:ERROR:process_memory_win.cc(73)] ReadMemory at 0x5501ffed80 of 16 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1017/174508.993:ERROR:exception_snapshot_win.cc(211)] EXCEPTION_POINTERS read failed
+[1017/174508.993:ERROR:exception_snapshot_win.cc(211)] EXCEPTION_POINTERS read failed
+[1017/174508.895:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1017/174508.993:ERROR:exception_snapshot_win.cc(100)] thread ID 11924 not found in process
+[1017/174508.993:ERROR:process_memory_win.cc(73)] ReadMemory at 0xeaf47fe980 of 16 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1017/174508.993:ERROR:process_memory_win.cc(73)] ReadMemory at 0xa62ffe680 of 16 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1017/174508.993:ERROR:exception_snapshot_win.cc(211)] EXCEPTION_POINTERS read failed
+[1017/174508.993:ERROR:exception_snapshot_win.cc(211)] EXCEPTION_POINTERS read failed
+[1017/174508.993:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1017/174508.993:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1017/174508.993:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1017/174508.993:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)

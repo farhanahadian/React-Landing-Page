@@ -1,0 +1,6 @@
+1. Unzip Folder
+2. Buka CMD
+3. Masuk ke file directory folder ini di CMD
+4. Jalankan di CMD "NPM install"
+5. "NPM Start"
+6. Tunggu beberapa saat hingga preview secara otomatis di browser
